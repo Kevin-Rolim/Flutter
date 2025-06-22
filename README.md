@@ -11,11 +11,12 @@ O app simula uma interface estilo Tinder com login fictício.
 - Layout responsivo
 
 ## 🖼️ Captura de tela
-
 Do desafio:
+
 ![image](https://github.com/user-attachments/assets/507ddab6-df22-4c8f-b81b-755cdfcee95a)
 
 O meu:
+
 ![image](https://github.com/user-attachments/assets/7f5a0b9e-2bb1-438d-b567-9fd48cacf74c)
 
 
