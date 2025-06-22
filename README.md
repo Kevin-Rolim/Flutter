@@ -1,16 +1,26 @@
-# projeto_1
+# Desafio Flutterando TV
 
-A new Flutter project.
+Este é um projeto Flutter criado como parte do desafio do canal Flutterando TV.  
+O app simula uma interface estilo Tinder com login fictício.
 
-## Getting Started
+## 🔥 Tecnologias utilizadas
 
-This project is a starting point for a Flutter application.
+- Flutter
+- Dart
+- Widgets personalizados
+- Layout responsivo
 
-A few resources to get you started if this is your first Flutter project:
+## 🖼️ Captura de tela
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Do desafio:
+![image](https://github.com/user-attachments/assets/507ddab6-df22-4c8f-b81b-755cdfcee95a)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O meu:
+![image](https://github.com/user-attachments/assets/7f5a0b9e-2bb1-438d-b567-9fd48cacf74c)
+
+
+## 🚀 Como rodar o projeto
+
+1. Clone este repositório:
+```bash
+git clone https://github.com/Kevin-Rolim/Flutter.git
